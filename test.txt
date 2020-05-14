@@ -8,3 +8,6 @@ bug1 fixed
 user commit 2
 
 other user commit 1
+
+
+rebase 1
